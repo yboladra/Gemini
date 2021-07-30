@@ -1,2 +1,1 @@
-Hello GIT mater
-updated
+Hello, Git
